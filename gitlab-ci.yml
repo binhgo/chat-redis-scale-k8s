@@ -1,0 +1,3 @@
+include:
+  - project: 'mini-express/ci-cd'
+    file: '/.shared-gitlab-ci.yml'
